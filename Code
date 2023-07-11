@@ -1,0 +1,51 @@
+<!----- Accent Color: #2176BD ------------>
+<div class="card mb-3">
+    <div class="card-body">
+        <div class="row world-entry">
+            <div class="col-md-3 world-entry-image"><img class="world-entry-image" src="FULLBODY BUN IMAGE LINK" alt="PROMPT TITLE" /></div>
+            <div class="col-md-9">
+                <div class="mb-3">
+                    <h3 class="mb-0">PROMPT TITLE</h3>
+                    <div><strong>Category: </strong>Character Prompts</div>
+                </div>
+                <div class="world-entry-text">
+                    <p>Meet Succubuns CHARACTER NAME</p>
+                    <div class="text-right"><a class="text-primary collapsed" style="margin-bottom: 10px;" href="#prompt-1" data-toggle="collapse" aria-expanded="false"><strong style="color: #2176bd;">Show Details...</strong></a></div>
+                    <div id="prompt-1" class="collapse">
+                        <h4>Details</h4>
+                        <p style="text-align: center;"><img src="CROPPED DOLL IMAGE" alt="" width="200" height="300" /></p>
+                        <p style="text-align: center;"><br /><a href="LINK TO SUCCUBUN PAGE">BUN NAME</a> this is where you'd put a description of your bun or set up the general setting for your intended prompt. It's good to keep it short and sweet, to avoid a long scroll!</p>
+                        <p style="text-align: center;">You may complete one of the following two prompts to receive INSERT WITTY THING HERE, along with a special trinket item for your succubun in accordance with your choice.</p>
+                        <p style="text-align: center;"><strong>Option 1: TITLE<br /></strong>This is where you'd put the description of your first option. Depict your Succubun INSERT WHAT THEY SHOULD DRAW. Giving some ideas is always nice, but not required!</p>
+                        <p style="text-align: center;"><strong>Rewards</strong>: ITEM NAME</p>
+                        <p style="text-align: center;"><img src="ITEM IMAGE LINK" alt="" width="150" height="150" /></p>
+                        <p style="text-align: center;"><strong>Option 2: TITLE</strong><br />This is where you'd put the description of your second option. Depict your Succubun INSERT WHAT THEY SHOULD DRAW. Giving some ideas is always nice, but not required!</p>
+                        <p style="text-align: center;"><strong>Rewards</strong>: ITEM NAME</p>
+                        <p style="text-align: center;"><img src="ITEM IMAGE LINK" alt="" width="150" height="150" /></p>
+                        <p style="text-align: center;">These rewards go directly into your Succubun's inventory. Once your Succubun owns one of BUN NAME's trinkets, INSERT WITTY THING HERE.</p>
+                        <p style="text-align: center;"> </p>
+                    </div>
+                    <h4 style="text-align: left;">Rewards</h4>
+                    <table class="table table-sm">
+                        <thead>
+                            <tr>
+                                <th width="70%">Reward</th>
+                                <th width="30%">Amount</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><a class="display-currency" href="https://succubuns.com/world/currencies?name=Carats">Carats</a></td>
+                                <td>0</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <hr />
+                </div>
+                <div class="text-right mt-1">
+                    <div class="mb-3"><a class="btn btn-primary" style="background: #2176BD; color: #fff; border: none;" href="https://succubuns.com/submissions/new">Submit Prompt</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
